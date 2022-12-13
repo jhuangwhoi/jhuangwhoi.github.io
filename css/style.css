@@ -970,6 +970,13 @@ img[src*='/img/global/Nordic1.png'] {
         Margin-right:2%
 }
 
+img[src*='/img/global/jie.png'] {
+	max-width: 43%;
+        float:left;     
+        Margin-right:1%
+}
+
+
 img[src*='/img/global/Chukchi.png'] {
 	max-width: 20%;
         float:right;        
@@ -987,8 +994,9 @@ img[src*='/img/global/Baffin.png'] {
 }
 
 img[src*='/img/global/Eddy.png'] {
-	max-width: 43%;
-        float:right;        
+	max-width: 55%;
+        float:right; 
+       Margin-right:-1%        
 }
 
 img[src*='/img/global/1.png'] {
@@ -1069,9 +1077,9 @@ img[src*='/img/global/eddy_NS.png'] {
 }
 
 img[src*='/img/global/eddy_BC.png'] {
-	max-width: 70%;
+	max-width: 55%;
         Float:right;   
-        Margin-right:0%     
+        Margin-right:-2%     
 }
 
 
