@@ -1004,8 +1004,55 @@ img[src*='/img/global/1.png'] {
         Float:left;        
 }
 
+img[src*='/img/global/SKQ_1.png'] {
+	max-width: 66.3%;
+        Float:left;        
+}
+
+img[src*='/img/global/osnap_1.png'] {
+	max-width: 67.6%;
+        Float:left;        
+}
+
+
+img[src*='/img/global/igp_1.png'] {
+	max-width: 67.4%;
+        Float:left;        
+}
+
+img[src*='/img/global/SKQ_2.png'] {
+	max-width: 32%;
+        Float:right;        
+}
+
+img[src*='/img/global/igp_3.png'] {
+	max-width: 30.7%;
+        Float:right;        
+}
+
+img[src*='/img/global/igp_2.png'] {
+	max-width: 30.7%;
+        Float:right;        
+}
+
+img[src*='/img/global/osnap_2.png'] {
+	max-width: 30.7%;
+        Float:right;        
+}
+
+
+img[src*='/img/global/SKQ_3.png'] {
+	max-width: 32%;
+        Float:right;        
+}
+
+img[src*='/img/global/osnap_3.png'] {
+	max-width: 30.7%;
+        Float:right;        
+}
+
 img[src*='/img/global/2.png'] {
-	max-width: 46%;
+	max-width: 47%;
         Float:left;   
         Margin-left:2%      
 }
@@ -1025,9 +1072,47 @@ img[src*='/img/global/5.png'] {
         Float:left;        
 }
 
+img[src*='/img/global/SKQ_5.png'] {
+	max-width: 46%;
+         Float:left; 
+    Margin-left:2%        
+}
+
+
+
+img[src*='/img/global/osnap_5.png'] {
+	max-width: 47%;
+         Float:right; 
+        Margin-right:2%        
+}
+
+img[src*='/img/global/SKQ_4.png'] {
+	max-width: 46%;
+         Float:left; 
+    Margin-left:2%        
+}
+
+img[src*='/img/global/osnap_4.png'] {
+	max-width: 47%;
+         Float:left; 
+        Margin-left:2%        
+}
+
+
+img[src*='/img/global/igp_5.png'] {
+	max-width: 46%;
+        Float:right;   
+        Margin-right:2%     
+}
+
+img[src*='/img/global/igp_4.png'] {
+	max-width: 46.2%;
+        Float:right;   
+        Margin-right:2.2%     
+}
 
 img[src*='/img/global/6.png'] {
-	max-width: 46%;
+	max-width: 47%;
         Float:right;   
         Margin-right:2%     
 }
