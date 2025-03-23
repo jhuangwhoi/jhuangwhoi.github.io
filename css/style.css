@@ -1056,6 +1056,7 @@ img[src*='/img/global/2.png'] {
         Float:left;   
         Margin-left:2%      
 }
+
 img[src*='/img/global/3.png'] {
 	max-width: 31.3%;
         Float:right;   
@@ -1167,7 +1168,41 @@ img[src*='/img/global/eddy_BC.png'] {
         Margin-right:-2%     
 }
 
+img[src*='/img/global/ufo_7.png'] {
+	max-width: 64.5%;
+        Float:left;   
+        Margin-right:1.5%     
+}
 
+img[src*='/img/global/ufo_6.png'] {
+	max-width: 33.3%;
+        Float:right;   
+        Margin-right:0%     
+}
+
+img[src*='/img/global/ufo_4.png'] {
+	max-width: 41%;
+        Float:left;   
+        Margin-right:1.5%     
+}
+
+img[src*='/img/global/ufo_3.png'] {
+	max-width: 46.2%;
+        Float:right;   
+        Margin-right:10.5%     
+}
+
+img[src*='/img/global/ufo_2.png'] {
+	max-width: 46.2%;
+        Float:right;   
+        Margin-right:8.5%     
+}
+
+img[src*='/img/global/ufo_1.png'] {
+	max-width: 41%;
+        Float:left;   
+        Margin-left:2%     
+}
 
 iframe,
 embed,
